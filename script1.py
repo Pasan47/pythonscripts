@@ -1,6 +1,6 @@
 import os
 import subprocess
-import sys # For sys.platform check
+import sys 
 
 def create_windows_directory(directory_path):
     """
